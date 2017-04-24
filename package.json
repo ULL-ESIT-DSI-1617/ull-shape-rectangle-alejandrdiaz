@@ -1,0 +1,25 @@
+{
+  "name": "@alejandrdiaz/ull-shape-rectangle-alejandrdiaz",
+  "version": "1.0.0",
+  "description": "ull shape rectangle",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ULL-ESIT-DSI-1617/ull-shape-rectangle-alejandrdiaz.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ULL-ESIT-DSI-1617/ull-shape-rectangle-alejandrdiaz/issues"
+  },
+  "homepage": "https://github.com/ULL-ESIT-DSI-1617/ull-shape-rectangle-alejandrdiaz#readme",
+  "dependencies": {
+    "@alejandrdiaz/ull-shape-alejandrdiaz": "^1.0.0",
+    "mocha": "^3.3.0",
+    "semver": "^5.3.0",
+    "should": "^11.2.1"
+  }
+}
