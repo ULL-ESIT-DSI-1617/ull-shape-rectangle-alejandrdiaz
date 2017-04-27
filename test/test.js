@@ -1,8 +1,6 @@
 "use strict";
 
 require('should');
-var ff = require("@alejandrdiaz/ull-shape-alejandrdiaz");
-var Shape = ff.Shape;
 var Rectangle = require('../rectangle.js');
 
 describe("Rectangle", function() {
@@ -10,6 +8,6 @@ describe("Rectangle", function() {
     var forma = new Rectangle({ width: 100, height: 50});
     var area = forma.getArea();
     /* There is a white space between consecutive columns */
-    area.should.match(/^5000$/);
+    area.should.match(5000);
   })
 });
