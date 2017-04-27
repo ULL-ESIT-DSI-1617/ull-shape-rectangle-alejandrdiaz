@@ -1,4 +1,4 @@
-let Shape = require('./shapesarea.js');
+let Shape = require("@alejandrdiaz/ull-shape-alejandrdiaz");
 class Rectangle extends Shape {
     constructor(options) {
       super(options)
