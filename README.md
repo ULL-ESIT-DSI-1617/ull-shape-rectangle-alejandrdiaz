@@ -4,5 +4,5 @@
 # Instalar package
 
 ```bash
-npm install https://github.com/ULL-ESIT-DSI-1617/ull-shape-alejandrdiaz.git
+npm install https://github.com/ULL-ESIT-DSI-1617/ull-shape-rectangle-alejandrdiaz.git
 ```
